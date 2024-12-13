@@ -58,4 +58,4 @@ README.md                           # Project documentation
 For questions or issues, please reach out to:
 
 Author: Jiayi Wang
-Email: jwang2@oxy.edu
+Email: jameswangjiayi@gmail.com
