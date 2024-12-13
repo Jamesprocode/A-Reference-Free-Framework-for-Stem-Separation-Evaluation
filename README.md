@@ -30,3 +30,32 @@ logs/
   sap_log.txt                       # Log of SAP processing
   umx_log.txt                       # Log of UMX processing
 README.md                           # Project documentation
+
+
+```
+
+## Features
+- **Reference-Free Evaluation**: No need for ground truth stems.
+- **Signal Processing-Based Metrics**: FIS and DSS focus on frequency isolation and temporal stability, providing objective measures of separation quality.
+- **Visualization Tools**: Graphs for regression and correlation analysis.
+- **Extensibility**: Modular design for adding new metrics or adapting to new datasets.
+
+## Installation
+
+### Prerequisites
+- Python 3.8 or higher
+- Required packages: 
+  - `librosa`
+  - `numpy`
+  - `matplotlib`
+  - `mir_eval`
+  - `openunmix`
+  - `demucs`
+- FFmpeg (optional, for audio format conversion)
+
+
+## Contact
+For questions or issues, please reach out to:
+
+Author: Jiayi Wang
+Email: jwang2@oxy.edu
